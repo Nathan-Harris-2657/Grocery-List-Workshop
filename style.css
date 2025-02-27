@@ -1,0 +1,50 @@
+body{
+    h1{
+        color: aquamarine;
+        text-align: center;
+        text-shadow: 1px 1px 5px black;
+    }
+    h2{
+        background-color: bisque ;
+        display:inline-block;
+        border: 1px solid black;
+
+
+    }
+    Section{
+        background-color: blue;
+        color: white;
+        padding: 20px;
+        display:inline-block;
+        border: 3px solid black;
+        margin: 10px;
+    }
+    
+        
+    
+    
+   
+    
+
+    
+        
+
+    
+    h3{
+        margin: 2px;
+        padding: 5px;
+        
+    }
+    ul{
+        margin: 3px;
+        
+    }
+    ol{
+        margin: 3px;
+    }
+    img{
+        height: 139px;
+        display: inline-block;
+        margin: 10px;
+    }
+}
